@@ -25,7 +25,8 @@ VS CODE
 
 (10) Open in VS code: ![open in vs code - index js (_DefiningURLparameters)](https://user-images.githubusercontent.com/35668707/67520267-58940d80-f65d-11e9-8caf-293a107c24b3.JPG)
 
-(11) Navigate to the routes/index.js file and add an the example where you define a name of a person within the URL and use req.query to use that name in your res.send: 
+(11) Navigate to the routes/index.js file and add an the example where you define a name of a person within the URL and use req.query to use that name in your res.send: ![update with req query - index js (_DefiningURLparameters)](https://user-images.githubusercontent.com/35668707/67520342-82e5cb00-f65d-11e9-8a0e-bb1789a3ec73.JPG)
+
 
 POSTMAN
 
