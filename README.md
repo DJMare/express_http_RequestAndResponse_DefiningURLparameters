@@ -30,4 +30,5 @@ VS CODE
 
 POSTMAN
 
-(12) Open Postman and use the GET route to test: 
+(12) Open Postman and use the GET route to test: ![Use GET route and URL to test in Postman](https://user-images.githubusercontent.com/35668707/67520441-b1fc3c80-f65d-11e9-9b23-615b7fa917f7.JPG)
+
