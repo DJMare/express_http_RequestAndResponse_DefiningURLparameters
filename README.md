@@ -15,11 +15,17 @@ COMMAND PROMPT
 
   cd Express
 
-(4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
+(4) Run the following command to install the Express generator globally onto your computer: 
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_DefiningURLparameters: express --view=hbs express_http_RequestAndResponse_DefiningURLparameters 
+  npm install express-generator -g
 
-(6) Once the process is complete, navigate into the express_http_RequestAndResponse_DefiningURLparameters directory: cd express_http_RequestAndResponse_DefiningURLparameters  
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_DefiningURLparameters: 
+
+  express --view=hbs express_http_RequestAndResponse_DefiningURLparameters 
+
+(6) Once the process is complete, navigate into the express_http_RequestAndResponse_DefiningURLparameters directory: 
+
+  cd express_http_RequestAndResponse_DefiningURLparameters  
 
 (7) Now in the express_http_RequestAndResponse_DefiningURLparameters directory, run the following: npm install
 
