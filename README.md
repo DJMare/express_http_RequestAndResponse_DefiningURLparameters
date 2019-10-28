@@ -27,11 +27,17 @@ COMMAND PROMPT
 
   cd express_http_RequestAndResponse_DefiningURLparameters  
 
-(7) Now in the express_http_RequestAndResponse_DefiningURLparameters directory, run the following: npm install
+(7) Now in the express_http_RequestAndResponse_DefiningURLparameters directory, run the following: 
 
-(8) Install Nodemon globally: npm install -g nodemon
+  npm install
 
-(9) Start the server with Nodemon with the following command: nodemon
+(8) Install Nodemon globally: 
+
+  npm install -g nodemon
+
+(9) Start the server with Nodemon with the following command: 
+
+  nodemon
 
 VS CODE
 
