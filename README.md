@@ -5,39 +5,39 @@ COMMAND PROMPT
 
 (1) Run the following to navigate to your Desktop: 
 
-  cd Desktop
+    cd Desktop
 
 (2) Create a new folder on desktop: 
 
-  mkdir Express
+      mkdir Express
 
 (3) Navigate to the Express directory: 
 
-  cd Express
+    cd Express
 
 (4) Run the following command to install the Express generator globally onto your computer: 
 
-  npm install express-generator -g
+    npm install express-generator -g
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_DefiningURLparameters: 
 
-  express --view=hbs express_http_RequestAndResponse_DefiningURLparameters 
+    express --view=hbs express_http_RequestAndResponse_DefiningURLparameters 
 
 (6) Once the process is complete, navigate into the express_http_RequestAndResponse_DefiningURLparameters directory: 
 
-  cd express_http_RequestAndResponse_DefiningURLparameters  
+    cd express_http_RequestAndResponse_DefiningURLparameters  
 
 (7) Now in the express_http_RequestAndResponse_DefiningURLparameters directory, run the following: 
 
-  npm install
+    npm install
 
 (8) Install Nodemon globally: 
 
-  npm install -g nodemon
+    npm install -g nodemon
 
 (9) Start the server with Nodemon with the following command: 
 
-  nodemon
+    nodemon
 
 VS CODE
 
