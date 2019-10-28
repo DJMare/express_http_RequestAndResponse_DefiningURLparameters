@@ -3,11 +3,17 @@ A simple express app where you use req.query to define the parameters within the
 
 COMMAND PROMPT
 
-(1) Run the following to navigate to your Desktop: cd Desktop
+(1) Run the following to navigate to your Desktop: 
 
-(2) Create a new folder on desktop: mkdir Express
+  cd Desktop
 
-(3) Navigate to the Express directory: cd Express
+(2) Create a new folder on desktop: 
+
+  mkdir Express
+
+(3) Navigate to the Express directory: 
+
+  cd Express
 
 (4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
 
