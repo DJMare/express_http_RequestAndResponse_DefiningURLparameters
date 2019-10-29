@@ -1,4 +1,4 @@
-# express_http_RequestAndResponse_DefiningURLparameters
+# express_httpRequestAndResponse_DefiningURLparameters
 A express app where you use req.query to define the parameters within the URL which you can then use on the page.
 
 COMMAND PROMPT
