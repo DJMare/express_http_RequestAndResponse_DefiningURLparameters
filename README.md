@@ -45,7 +45,6 @@ VS CODE
 
 (11) Navigate to the routes/index.js file and add an the example where you define a name of a person within the URL and use req.query to use that name in your res.send: ![update with req query - index js (_DefiningURLparameters)](https://user-images.githubusercontent.com/35668707/67520342-82e5cb00-f65d-11e9-8a0e-bb1789a3ec73.JPG)
 
-
 POSTMAN
 
 (12) Open Postman and use the GET route to test: ![Use GET route and URL to test in Postman](https://user-images.githubusercontent.com/35668707/67520441-b1fc3c80-f65d-11e9-9b23-615b7fa917f7.JPG)
